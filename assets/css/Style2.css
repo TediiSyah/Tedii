@@ -1,0 +1,20 @@
+.bg-coklat{
+    background-color: rgb(33, 25, 35);
+}
+.bg-burlwood{
+    background-color: #070F2B;
+}
+.bg-ap{
+    background-color: #070F2B;
+}
+.jumbotron{
+    padding: 5rem;
+    background-color: azure;
+}
+#profile{
+    padding: 2rem 1rem ;
+    background-color: rgb(62, 61, 75);
+}
+#education{
+    background-color: #76ABAE;
+}
